@@ -1,6 +1,6 @@
 cask "gifbar" do
-  version "0.1.0"
-  sha256 "ab793970bd10b8f5b7bdad52e024f8145bda6a85c8d6ca5e11326224033aafa9"
+  version "0.1.1"
+  sha256 "2b88a0576e8de0cfd4ba2a2efdcf0bb90e436b196570d89f6dd1fffcfb511b82"
 
   url "https://github.com/opzero1/gif-bar/releases/download/v#{version}/GifBar-#{version}.zip"
   name "GifBar"
